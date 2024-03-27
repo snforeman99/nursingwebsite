@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Sam's Website</title>
+</head>
+<body>
+    <header>
+        <section class="topandbottom">
+            <p class="topheading">Health Assessment Supplemental Instruction (SI)</p>
+        </section>
+        <br>
+        <nav>
+            <a href= "index.html" class="navbold">Home</a> |
+            <a href= "unit1.html">Unit 1</a> |
+            <a href= "unit2.html">Unit 2</a> |
+            <a href= "unit3.html">Unit 3</a> |
+            <a href= "unit4.html">Unit 4</a> |
+        
+        </nav>
+    </header>
+
+    <h1>Welcome!</h1>
+    <br>
+    <h2>About this website:</h2>
+    <p>I created this website to be another 
+        resource and study aid to guide nursing 
+        students through their Health Assessment course during Nursing School. Nursing School content is often cumbersome and it can be hard
+    to know where to begin. I created all these materials to help build a foundation of assessment skills, in a clear and concise way.</p>
+
+    <aside>
+        <p>About the creator:</p>
+        <br>
+            <img src="IMG_5180.jpg" alt="SamF" class="image">
+
+        <p> Hi! My name is Samantha. I created this website after graduating nursing school and having a large amount of material that I created. I was a Student Supplemental Instructor
+            for the Health Assessment course in my nursing program. The 80+ PowerPoints, worksheets, and study guides helped numerous students and improved exam averages amongst students.
+            I wanted to continue helping nursing students, while also utilizing and building my HTML/CSS skills, so this website was created!
+        </p>
+    </aside>
+    
+    
+
+
+
+    <footer>
+        <section class="topandbottom">
+            <p class="topheading">Thank You For Visiting!</p>
+        </section>
+        <br>
+        <nav>
+            <a href= "index.html" class="navbold">Home</a> |
+            <a href= "unit1.html">Unit 1</a> |
+            <a href= "unit2.html">Unit 2</a> |
+            <a href= "unit3.html">Unit 3</a> |
+            <a href= "unit4.html">Unit 4</a> |
+            <form>
+                <label>Search:</label>
+                <input type="text">
+            </form>
+        </nav>
+    </footer>
+</body>
+</html>
