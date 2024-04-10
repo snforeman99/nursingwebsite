@@ -19,7 +19,6 @@
             <a href= "unit2.html">Unit 2</a> |
             <a href= "unit3.html">Unit 3</a> |
             <a href= "unit4.html">Unit 4</a> |
-        
         </nav>
     </header>
 
@@ -32,18 +31,29 @@
     to know where to begin. I created all these materials to help build a foundation of assessment skills, in a clear and concise way.</p>
 
     <aside>
-        <p>About the creator:</p>
+        <h1>About the creator:</h1>
         <br>
             <img src="IMG_5180.jpg" alt="SamF" class="image">
 
         <p> Hi! My name is Samantha. I created this website after graduating nursing school and having a large amount of material that I created. I was a Student Supplemental Instructor
-            for the Health Assessment course in my nursing program. The 80+ PowerPoints, worksheets, and study guides helped numerous students and improved exam averages amongst students.
+            for the Health Assessment course in my nursing program. The 80+ PowerPoints, worksheets, charts, and study guides helped numerous students and improved exam averages amongst students.
             I wanted to continue helping nursing students, while also utilizing and building my HTML/CSS skills, so this website was created!
         </p>
+    <br>
+        <h1>Contact Me:</h1>
+        <form>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="email">Email:</label><br>
+            <input type="text" id="email" name="email"><br><br>
+            <input type="submit" value="Submit">
+          </form>
+          <br>
+          <a target="_blank" class="libutton" href="www.linkedin.com/in/samantha-foreman-bsn-rn">Connect with me on LinkedIn!</a>
     </aside>
     
-    
-
 
 
     <footer>
