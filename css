@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: rgb(106, 196, 226);
+}
+
+.topandbottom{
+    border: 5px solid black;
+    height: 150px;
+    clear: both;
+}
+
+nav{
+    text-align: center;
+}
+
+aside{
+    float: right;
+    padding: 35px;
+    margin: 100px;
+    border-left: 500px;
+    border: black 3px solid;
+}
+
+.topheading{
+    font-size: 50px;
+    text-align: center;
+}
+
+.navbold{
+    font-weight: bolder;
+}
+
+div.container{
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.container{
+    position: relative;
+    width: 50%;
+}
+  
+.image{
+    float: right;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.libutton{
+    color: white;
+    padding: 15px 5px;
+    text-decoration-thickness: 3px; 
+  }
+}
