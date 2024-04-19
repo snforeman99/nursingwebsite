@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Sam's Website</title>
+</head>
+<body>
+    <header>
+        <section class="topandbottom">
+            <p class="topheading">Health Assessment SI</p>
+        </section>
+        <br>
+        <nav>
+            <a href= "index.html">Home</a>
+            <a href= "unit1.html">Unit 1</a>
+            <a href= "unit2.html">Unit 2</a>
+            <a href= "unit3.html" class="navbold">Unit 3</a>
+            <a href= "unit4.html">Unit 4</a>
+        </nav>
+    </header>
+
+    <h1>Unit 3 Materials</h1>
+    <br>
+    <ul>
+        <li>Objectives</li>
+        <br>
+        <li>PowerPoints</li>
+        <br>
+        <li>Worksheets</li>
+        <br>
+        <li>Study Guides</li>
+        <br>
+        <li>Charts</li>
+        <br>
+        <li>Practice Exams</li>
+    </ul>
+
+    <footer>
+        <nav>
+            <a href= "index.html">Home</a>
+            <a href= "unit1.html">Unit 1</a>
+            <a href= "unit2.html">Unit 2</a>
+            <a href= "unit3.html" class="navbold">Unit 3</a>
+            <a href= "unit4.html">Unit 4</a>
+            <form>
+                <label>Search:</label>
+                <input type="text">
+            </form>
+    </footer>
+</body>
+</html>
